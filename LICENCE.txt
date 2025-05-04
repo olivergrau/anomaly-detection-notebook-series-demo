@@ -1,0 +1,19 @@
+Copyright (c) 2025 Oliver Grau
+
+All rights reserved.
+
+This product (Premium Notebook Series: Anomaly Detection Journey) is licensed under the following terms:
+
+You are permitted to:
+- Use the source code (located in the codebase/ and inference/codebase/ folders) for personal, educational, or internal organizational purposes.
+- Modify and adapt the source code for your own projects or applications.
+- Train your own models based on the provided code structure.
+
+You are NOT permitted to:
+- Redistribute, resell, or publicly share the notebooks (*.ipynb files), documentation, or educational content included in this product.
+- Use the notebooks or their content (including explanations, structure, examples, or wording) to create competing products, tutorials, or commercial offerings.
+
+Disclaimer:
+The materials are provided "as is", without warranty of any kind. The author is not responsible for any damages, losses, or unintended consequences arising from the use of this material.
+
+By purchasing and using this product, you agree to these license terms.
