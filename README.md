@@ -44,6 +44,8 @@ The full premium version provides a complete, production-grade learning experien
 
 > 💡 If you're enjoying this demo, the full version is designed to guide you through building **real-world, deployable anomaly detection systems**, step by step.
 
+👉 [🛒 Get the full notebook series](https://grausoft.net/product/premium-notebook-series-anomaly-detection-journey/)
+
 ---
 
 ## 📂 Dataset: AITEX Fabric Dataset (AFID)
